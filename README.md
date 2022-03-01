@@ -3,13 +3,14 @@ Hello!
 Name: Pribylskiy Sergey
 
 E-mail: asp@s96.ru
-
+WWW: https://www.s96.ru
 Phone: +7(922) 225-225-5
 
 
 Programming: PHP, Python, Javascript, HTML, CSS, MySQL
 
-Linux, Nginx
+Network administrator: Linux servers, cisco, mikrotik
+
 
 <!--
 **ASP96/ASP96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
