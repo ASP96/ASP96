@@ -1,9 +1,14 @@
 Hello!
+
 Name: Pribylskiy Sergey
+
 E-mail: asp@s96.ru
+
 Phone: +7(922) 225-225-5
 
+
 Programming: PHP, Python, Javascript, HTML, CSS, MySQL
+
 Linux, Nginx
 
 <!--
